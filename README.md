@@ -1,2 +1,2 @@
 # ScientificComputation4SocialScienceAssignment7
-This repository is created to contain the Assignment 7 files assigned in PS 2705 - Scientific Computation of Social Scientists.
+This repository is created to include working files for the PS 2705 - Scientific Computation of Social Scientists class.
