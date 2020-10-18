@@ -28,7 +28,7 @@ You created two repositories, one in the local computer and the other one is in 
 For instance, we use the following commands:
 
 ```
-git remote add rep https://github.com/mervekeskin20/ScienciticComputation4socialScienceAssignment7 \
+git remote add rep https://github.com/mervekeskin20/ScienciticComputation4SocialScienceAssignment7 \
 git push u- rep master
 ```
 
@@ -40,3 +40,6 @@ git add initial
 git commit -m "initial commit"
 git push -u rep master
 ```
+
+## Clone a Remote Repository
+
